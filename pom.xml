@@ -8,5 +8,26 @@
     <artifactId>jd2-hw-jaxb</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+<dependencies>
+
+<!--  это маршаллер унмаршаллер-->
+   <!--     <dependency>
+			<groupId>com.sun.tools.xjc.maven2</groupId>
+			<artifactId>maven-jaxb-plugin</artifactId>
+			<version>1.1.1</version>
+			<type>maven-plugin</type>
+		</dependency> -->
+
+
+<!--  это генератор сущностейр-->
+ 	<dependency>
+			<groupId>com.sun.tools.xjc.maven2</groupId>
+			<artifactId>maven-jaxb-plugin</artifactId>
+			<version>1.1.1</version>
+			<type>maven-plugin</type>
+		</dependency>
+
+
+		</dependencies>
 
 </project>
