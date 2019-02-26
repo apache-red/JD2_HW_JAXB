@@ -14,7 +14,7 @@ import java.io.PrintStream;
 public class XJCEntityGeneration {
 
 
-    private static final String schemaFile = "p:\\JavaProjects\\jd2-hw-jaxb\\src\\main\\resources\\Category.xsd";
+    private static final String schemaFile = "p:\\JavaProjects\\jd2-hw-jaxb\\src\\main\\resources\\category.xsd";
 
     private static final String entityPackageName = "com.htp.redcompany.jaxb.entity";
     private static final String targetPath = "p:\\JavaProjects\\jd2-hw-jaxb\\src\\main\\java\\";
